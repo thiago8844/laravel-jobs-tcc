@@ -9,7 +9,6 @@ Certifique-se de ter instalado:
 -   **PHP 8.2+**
 -   **Composer** (gerenciador de dependências PHP)
 -   **SQLite** (já vem com PHP, nenhuma configuração adicional necessária)
--   **Node.js e NPM** (opcional, apenas se for trabalhar com frontend)
 
 ### Verificando instalações
 
